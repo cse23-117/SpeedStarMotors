@@ -1,0 +1,21 @@
+body {
+  background-color:pink;
+}
+h1 {
+color:blue;
+}
+a: visited {
+color:pink;
+  text-decoration:none;
+}
+a: unvisted {
+color:green;
+  text-decoration:none;
+}
+a: active {
+  color:yellow;
+  text-decoration:none;
+}
+a: hover{
+color:red;
+}
